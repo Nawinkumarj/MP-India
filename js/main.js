@@ -41,8 +41,6 @@
         margin: 0,
     });
 
-
-
     // Project carousel
     $(".project-carousel").owlCarousel({
         autoplay: true,
