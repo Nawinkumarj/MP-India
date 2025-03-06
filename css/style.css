@@ -19,6 +19,9 @@
     --heading: "Kanit", sans-serif;
     --title: "Roboto Slab", serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* Common */
 .text-capitalize{
     font-family: var(--heading) !important;
