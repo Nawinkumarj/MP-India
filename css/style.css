@@ -784,6 +784,7 @@ html{
 
 .service .service-item .service-img img {
     transition: 0.5s;
+    object-position: center !important;
 }
 
 .service .service-item:hover .service-img img {
@@ -1048,6 +1049,7 @@ html{
     position: relative;
     overflow: hidden !important;
     border-radius: 10px;
+    max-height: 400px;
 }
 
 .project .project-carousel .project-item .project-img::after {
@@ -1068,6 +1070,7 @@ html{
 
 .project .project-carousel .project-item .project-img img {
     transition: 0.5s;
+
 }
 
 .project .project-carousel .project-item:hover .project-img img {
